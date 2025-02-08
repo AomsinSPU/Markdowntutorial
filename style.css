@@ -1,0 +1,18 @@
+#data {
+    border: 3px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+#photo {
+    position: relative;
+    bottom: 1060px;
+    left: 1720px;
+    width: fit-content;
+    height: fit-content;
+}
+
+img[alt="minipic"] { 
+    max-width:  80px; 
+    display: block;
+  }
